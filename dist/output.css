@@ -902,10 +902,6 @@ video {
   height: 5rem;
 }
 
-.h-\[200px\] {
-  height: 200px;
-}
-
 .w-full {
   width: 100%;
 }
@@ -928,10 +924,6 @@ video {
 
 .w-\[60\%\] {
   width: 60%;
-}
-
-.w-\[31\%\] {
-  width: 31%;
 }
 
 .w-20 {
@@ -1264,10 +1256,6 @@ video {
     width: 80%;
   }
 
-  .res-menu\:w-\[48\%\] {
-    width: 48%;
-  }
-
   .res-menu\:w-\[60\%\] {
     width: 60%;
   }
@@ -1364,10 +1352,6 @@ video {
 }
 
 @media (max-width: 768px) {
-  .mob\:w-\[80\%\] {
-    width: 80%;
-  }
-
   .mob\:w-full {
     width: 100%;
   }
